@@ -1,0 +1,24 @@
+## Compiled Output
+/dist/
+/tmp/
+
+## NPM/Bower
+/bower_components/
+/node_modules/
+
+## Miscellaneous
+/.sass-cache
+/connect.lock
+/coverage/
+/libpeerconnection.log
+/npm-debug.log*
+/testem.log
+/debug.log
+
+## .orig files are created during merge/revert
+/*.orig
+
+## VS Code
+/.vscode/
+syntax: glob
+debug.log
